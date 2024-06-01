@@ -1,0 +1,409 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[6]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[6]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BLANK_N",
+					"strict" : false
+				},
+				{
+					"name" : "LED_config_finished",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_xclk",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_sioc",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_BA_0",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_BA_1",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_CAS_N",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_RAS_N",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_WE_N",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "test[0]",
+					"strict" : false
+				},
+				{
+					"name" : "test[1]",
+					"strict" : false
+				},
+				{
+					"name" : "test[2]",
+					"strict" : false
+				},
+				{
+					"name" : "test[3]",
+					"strict" : false
+				},
+				{
+					"name" : "test[4]",
+					"strict" : false
+				},
+				{
+					"name" : "test[5]",
+					"strict" : false
+				},
+				{
+					"name" : "test[6]",
+					"strict" : false
+				},
+				{
+					"name" : "test[7]",
+					"strict" : false
+				},
+				{
+					"name" : "test[8]",
+					"strict" : false
+				},
+				{
+					"name" : "test[9]",
+					"strict" : false
+				},
+				{
+					"name" : "test[10]",
+					"strict" : false
+				},
+				{
+					"name" : "test[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_siod",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[14]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[15]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_pclk",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_vsync",
+					"strict" : false
+				},
+				{
+					"name" : "SW[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_href",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ov7670_data[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
